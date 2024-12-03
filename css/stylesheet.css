@@ -1,0 +1,14 @@
+.error , 
+.total-price-div{
+    width: 450px;
+    background-color: brown;
+    color: white;
+    font-size: 18px;
+    margin: 20px auto;
+    padding: 10px;
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -ms-transition: 1s ease;
+    -o-transition: 1s ease;
+}
